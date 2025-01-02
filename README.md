@@ -2,17 +2,17 @@
 
 ## **Project Objective**
 
-The Super-Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023.
+The Super-Store wants to create an annual sales report for 2024. So that, the owner of the Super store can understand their customers and grow more sales in 2025.
 
 ## **Dataset used**
-- <a href="https://github.com/rutujabhosale24/Excel_Dashboard_Project//main/Super-Store Data Analysis.xlxs">Super Store Data</a>
+- <a href="https://github.com/rutujabhosale24/Excel_Dashboard_Project/blob/main/Super-Store%20Data%20Analysis.xlsx">Super Store Data</a>
 
 ## **Questions (KPIs)**
 
 - Compare the sales and orders using single chart.
 - Which month got the highest sales and orders?
 - Who purchased more - Men or Women?
-- What are different order status in 2022?
+- What are different order status in 2024?
 - List top 10 states contributing to the sales?
 - Relation between age and gender based on number of orders.
 - Which Channel is contributing maximum to the sales?
@@ -25,13 +25,13 @@ The Super-Store wants to create an annual sales report for 2022. So that, the ow
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make <a href=https://github.com/rutujabhosale24/Excel_Dashboard_Project//main/Super-Store Dashboard.png>dashboard interactive</a> and dynamic.
+- Merge all pivot tables into one dashboard and apply slicer to make <a href="https://github.com/rutujabhosale24/Excel_Dashboard_Project/blob/main/Super-Store%20Dashboard.png">dashboard interactive</a> and dynamic.
 
 
 
 ## **Dashboard**
 
-![image](https://github.com/rutujabhosale24/Excel_Dashboard_Project/main/Super-Store Dashboard.png)
+![image](https://github.com/rutujabhosale24/Excel_Dashboard_Project/blob/main/Super-Store%20Dashboard.png)
 
 
 ## **Project Insight**
